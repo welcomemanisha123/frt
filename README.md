@@ -12,7 +12,7 @@ Industry : Lifestyle
 
 Project Title : Salads
 
-Problem Statement/Opportunity : Salds Is An Partof eating Food.
+Problem Statement/Opportunity : Salds Is An Part of eating Food.
 
 Project Description : Best Salads Can Easily Identify Tastes.
 
