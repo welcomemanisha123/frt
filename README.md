@@ -16,6 +16,6 @@ Project Description : Best Salads Can Easily Identify Tastes.
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+Static Web App URL : https://green-bush-027025f10.2.azurestaticapps.net
 
-App Services URL : 
+App Services URL : https://salads.azurewebsites.net
